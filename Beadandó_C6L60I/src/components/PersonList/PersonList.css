@@ -1,0 +1,21 @@
+button{
+	float: left;
+}
+
+#new {
+	background-color: #7BFF83;
+	width: 90px;
+}
+
+#save {
+	background-color: #9BC7FF;
+	width: 70px;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}

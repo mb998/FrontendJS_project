@@ -1,0 +1,15 @@
+div button {
+    width: 30%;
+}
+
+div button {
+    margin: 0 10px 0 0;
+}
+
+#del {
+	background-color: #FF3F3F;
+}
+
+#edit {
+	background-color: #FDFF66;
+}
